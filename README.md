@@ -1,2 +1,2 @@
-# Initial page
+# Full Stake Developer Learning Notes
 

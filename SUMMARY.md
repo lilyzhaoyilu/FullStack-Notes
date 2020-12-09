@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Full Stake Developer Learning Notes](README.md)
 
