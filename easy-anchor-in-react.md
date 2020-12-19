@@ -2,6 +2,8 @@
 
 Here is an easy way to have anchors in react using scrollIntoView
 
+[https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
+
 
 
 ```javascript
@@ -12,24 +14,27 @@ constructor(props){
 }
   
 scrollToAnchor (anchorId){
-    if (anchorId) {   
-        let anchorElement = document.getElementById(anchorId);
-        
-      if(anchorElement) {       
-			anchorElement.scrollIntoView();}
-			}
-}
+  if (anchorId){   
+  let anchorElement = document.getElementById(anchorId);
+    if(anchorElement) {       
+		  anchorElement.scrollIntoView();}
+		}
+  }
+};
 
 render(){
-<div>
+  return(
+    <div>
 
-<button onClick={()=>(this.scrollToAnchor("target1"))}>
-Scroll Down To Target1
-</button>
+      <button onClick={()=>(this.scrollToAnchor("target1"))}>
+       Scroll Down To Target1
+      </button>
 
 
 
-<div className="splash-content-two" id='target1'></div>
+      <div className="splash-content-two" id='target1'></div>
+    </div>
+  )
 }
 ```
 
