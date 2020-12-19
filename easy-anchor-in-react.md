@@ -4,7 +4,7 @@ Here is an easy way to have anchors in react using scrollIntoView
 
 
 
-```text
+```javascript
 class Demo extends React.Component {
 constructor(props){
     super(props);
