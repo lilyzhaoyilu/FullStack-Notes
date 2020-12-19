@@ -1,2 +1,6 @@
-# Full Stake Developer Learning Notes
+# Full Stake Learning Notes
+
+## 
+
+
 

@@ -35,6 +35,6 @@ render(){
       <div className="splash-content-two" id='target1'></div>
     </div>
   )
-}
+}}
 ```
 

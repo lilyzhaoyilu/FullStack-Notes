@@ -1,5 +1,8 @@
 # Table of contents
 
-* [Full Stake Developer Learning Notes](README.md)
-* [Easy Anchor in React](easy-anchor-in-react.md)
+* [Full Stake Learning Notes](README.md)
+
+## Frontend Production
+
+* [Easy Anchor in React](frontend-production/easy-anchor-in-react.md)
 
