@@ -1,6 +1,6 @@
 # Easy Anchor in React
 
-Here is an easy way to have anchors in react using scrollIntoView
+Here is an easy way to have anchors in react using _scrollIntoView_
 
 [https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView](https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView)
 
