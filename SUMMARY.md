@@ -6,3 +6,7 @@
 
 * [Easy Anchor in React](frontend-production/easy-anchor-in-react.md)
 
+## JavaScript
+
+* [Var, Let and Const](javascript/var-let-and-const.md)
+
