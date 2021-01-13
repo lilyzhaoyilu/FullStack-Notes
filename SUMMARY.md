@@ -15,3 +15,7 @@
 
 * [Read Later](read-later.md)
 
+## Reading List
+
+* [Reading List](reading-list/reading-list.md)
+
