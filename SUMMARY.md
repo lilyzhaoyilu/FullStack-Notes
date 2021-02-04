@@ -8,6 +8,7 @@
 
 ## JavaScript
 
+* [High Level JS - AA video](javascript/high-level-js-aa-video.md)
 * [promise](javascript/promise.md)
 * [Var, Let and Const](javascript/var-let-and-const.md)
 
@@ -18,8 +19,4 @@
 ## Reading List
 
 * [Reading List](reading-list/reading-list.md)
-
----
-
-* [High Level JS - AA video](high-level-js-aa-video.md)
 

@@ -29,7 +29,7 @@ Promise
 
 * def: an **object** that represents the eventual completion \(or failure\) of an asynchronous operation
 * 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 * can be chained 
 
