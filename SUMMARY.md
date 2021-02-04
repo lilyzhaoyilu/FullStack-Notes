@@ -19,3 +19,7 @@
 
 * [Reading List](reading-list/reading-list.md)
 
+---
+
+* [High Level JS - AA video](high-level-js-aa-video.md)
+
