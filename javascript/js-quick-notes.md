@@ -36,3 +36,9 @@ a.flat(Infinity) = [ 6, 7, 4, 9, 8 ]
 a.toString() = '6,7,4,9,8'
 ```
 
+```javascript
+['a','a','c'].join() = 'a,a,c'
+['a','a','c'].join('') = 'aac'
+['a','a','c'].join('-') = 'a-a-c'
+```
+
