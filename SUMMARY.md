@@ -8,6 +8,7 @@
 
 ## JavaScript
 
+* [JS quick notes](javascript/js-quick-notes.md)
 * [High Level JS - AA video](javascript/high-level-js-aa-video.md)
 * [promise](javascript/promise.md)
 * [Var, Let and Const](javascript/var-let-and-const.md)
