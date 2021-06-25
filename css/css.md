@@ -47,8 +47,6 @@ section:after {
 
 #### Flex \([https://css-tricks.com/snippets/css/a-guide-to-flexbox/](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)\)
 
-#### 
-
 <table>
   <thead>
     <tr>
@@ -141,4 +139,20 @@ section:after {
     </tr>
   </tbody>
 </table>
+
+ `float`, `clear` and `vertical-align`  have no effects on a flex item
+
+### Pseudo-elements
+
+[https://www.w3schools.com/css/css\_pseudo\_elements.asp](https://www.w3schools.com/css/css_pseudo_elements.asp)
+
+```text
+selector::pseudo-element {
+  property: value;
+}
+```
+
+### Draw Triagle with CSS
+
+[https://css-tricks.com/snippets/css/css-triangle/](https://css-tricks.com/snippets/css/css-triangle/)
 
