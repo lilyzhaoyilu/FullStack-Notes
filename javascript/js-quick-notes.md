@@ -42,3 +42,27 @@ a.toString() = '6,7,4,9,8'
 ['a','a','c'].join('-') = 'a-a-c'
 ```
 
+### slice, substr, substring
+
+```javascript
+> a = '0123456'
+'0123456'
+
+//slice [startIndex, endIndex)
+> a.slice(1,4)
+'123'
+
+//substring [startIndex, endIndex)
+> a.substring(1,4)
+'123'
+
+//substr [startIndex, length]
+> a.substr(1,4)
+'1234'
+
+//none of them changes a
+> a
+'0123456'
+>
+```
+
