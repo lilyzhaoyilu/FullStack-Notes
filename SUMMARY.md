@@ -8,6 +8,7 @@
 
 ## JavaScript
 
+* [Sort Methods](javascript/untitled.md)
 * [JS Object Properties](javascript/js-object-properties.md)
 * [JS八股](javascript/js-ba-gu.md)
 * [JS quick notes](javascript/js-quick-notes.md)
@@ -26,8 +27,4 @@
 ## CSS Notes <a id="css"></a>
 
 * [CSS](css/css.md)
-
----
-
-* [Untitled](untitled.md)
 
