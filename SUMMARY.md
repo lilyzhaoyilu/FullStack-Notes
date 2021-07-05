@@ -8,6 +8,7 @@
 
 ## JavaScript
 
+* [JS Object Properties](javascript/js-object-properties.md)
 * [JS八股](javascript/js-ba-gu.md)
 * [JS quick notes](javascript/js-quick-notes.md)
 * [High Level JS - AA video](javascript/high-level-js-aa-video.md)
