@@ -8,7 +8,7 @@
 
 ## JavaScript
 
-* [Sort Methods](javascript/untitled.md)
+* [JS Sort Methods](javascript/untitled.md)
 * [JS Object Properties](javascript/js-object-properties.md)
 * [JS八股](javascript/js-ba-gu.md)
 * [JS quick notes](javascript/js-quick-notes.md)

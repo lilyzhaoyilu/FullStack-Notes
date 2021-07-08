@@ -1,4 +1,4 @@
-# Sort Methods
+# JS Sort Methods
 
 ### 按照字典序排序
 
