@@ -8,6 +8,7 @@
 
 ## JavaScript
 
+* [逻辑短路特性](javascript/luo-ji-duan-lu-te-xing.md)
 * [k-- & --k](javascript/k-and-k.md)
 * [JS Sort Methods](javascript/untitled.md)
 * [JS Object Properties](javascript/js-object-properties.md)
