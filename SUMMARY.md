@@ -33,4 +33,5 @@
 ## DOM & VJ
 
 * [Document Object Model](dom-and-vj/document-object-model.md)
+* [JQuery I: Selection and Manipulation](dom-and-vj/jquery-i-selection-and-manipulation.md)
 
