@@ -1,8 +1,8 @@
 # DOM Manipulation: Select
 
-### Select elements in the DOM
+## Select elements in the DOM
 
-#### \`getElementById\`  \(id -&gt; caseSenstive\)
+### \`getElementById\`  \(id -&gt; caseSenstive\)
 
 getElementById returns one element 
 
@@ -15,7 +15,7 @@ console.log(masterEl) //<p id="master">i love javascript</p>
  </script>
 ```
 
-#### \`getElementsByClassName\(\)\`
+### \`getElementsByClassName\(\)\`
 
 returns a collection\(array like\) of all elements in the document with the specified class name 
 
@@ -41,7 +41,7 @@ If you click the button it would select all the elements with a class name
 of "master2" and change the innerHTML of the 3rd element.
 ```
 
-#### getElementsByTagName\(\)
+### getElementsByTagName\(\)
 
 returns all the elements of the specified tag name in the order which they appear in the document
 
@@ -66,7 +66,7 @@ const btn = document.getElementById('btn')
 </script>
 ```
 
-#### .querySelector\(\)
+### .querySelector\(\)
 
 This returns the first value that matches the selector it’s given. This method can accept all CSS style selectors, allowing it to select by tag, class, or ID. \(.class, \#id, input\[type = 'text'\]\)
 
@@ -78,7 +78,7 @@ const master = document.querySelector("#master")
 </script>
 ```
 
-.querySelectorAll\(\)
+### .querySelectorAll\(\)
 
 This works similar to above which returns a node list collection of all matching elements.
 
