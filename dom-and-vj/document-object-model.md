@@ -28,5 +28,7 @@ However, even though the DOM is standardized by the W3C, it is not implemented i
 
 
 
-[https://open.appacademy.io/learn/swe-in-person/javascript/the-document-object-model](https://open.appacademy.io/learn/swe-in-person/javascript/the-document-object-model)
+{% embed url="https://open.appacademy.io/learn/swe-in-person/javascript/the-document-object-model" %}
+
+[https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
 
