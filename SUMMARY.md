@@ -32,10 +32,10 @@
 
 ## DOM & VJ
 
-* [DOM Manipulation: Event Handling](dom-and-vj/dom-manipulation-event-handling.md)
 * [Document Object Model](dom-and-vj/document-object-model.md)
 * [DOM Manipulation: Select](dom-and-vj/jquery-i-selection-and-manipulation.md)
 * [DOM Manipulation: Create, Modify, Append, Insert...](dom-and-vj/dom-manipulation-create-modify-append-insert....md)
 * [DOM Manipulation: Add CSS through adding properties](dom-and-vj/dom-manipulation-add-css-through-adding-properties.md)
 * [DOM Manipulation: Attribute](dom-and-vj/dom-manipulation-attribute.md)
+* [DOM Manipulation: Event Handling](dom-and-vj/dom-manipulation-event-handling.md)
 
