@@ -16,13 +16,16 @@ An HTML attribute always belongs to an HTML element
 myelement.getAttribute('id') // returns the id
 ```
 
-### .setAttribute\(\)
+### .setAttribute\(\)  // createAttribute\(\)
 
 ```text
 Element.setAttribute(name, value);
 
-b.setAttribute("name", "helloButton");
-b.setAttribute("disabled", "");
+elementNode.setAttribute("name", "helloButton");
+elementNode.setAttribute("disabled", "");
+
+var a = document.createAttribute('class')
+a.value = 'democlass'
 ```
 
 ### . **hasAttribute\(\)**
