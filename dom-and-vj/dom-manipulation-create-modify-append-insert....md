@@ -64,5 +64,30 @@ node.removeChild(child);
 node is the parent node of `child`
 ```
 
-[https://developer.mozilla.org/en-US/docs/Web/API/Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
+
+
+## Manipulate element's class
+
+```javascript
+const elementClasses = elementNodeReference.classList
+
+//add
+node.classList.add('theNameHere')
+node.classList.remove('theNameHere')
+node.classList.toggle('visibile, i < 10) // second p -> condition
+node.classList.replace('foo', 'bar')
+console.log(node.classList.contains('food'))
+```
+
+
+
+
+
+
+
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/API/Node" %}
+
+
+
+
 
