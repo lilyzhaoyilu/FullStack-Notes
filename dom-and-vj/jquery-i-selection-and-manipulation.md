@@ -15,7 +15,7 @@ console.log(masterEl) //<p id="master">i love javascript</p>
  </script>
 ```
 
-### .getElementsByClassName\(\)   \(multiple\)
+### .getElementsByClassName\(\)    \(multiple, like array can access \[0\]\)
 
 returns **a collection\(array like\)** of all elements in the document with the specified class name 
 
@@ -41,7 +41,7 @@ If you click the button it would select all the elements with a class name
 of "master2" and change the innerHTML of the 3rd element.
 ```
 
-### .getElementsByTagName\(\)    \(multiple\)
+### .getElementsByTagName\(\)    \(multiple, like array can access \[0\]\)
 
 returns **all the elements** of the specified tag name in the order which they appear in the document
 
