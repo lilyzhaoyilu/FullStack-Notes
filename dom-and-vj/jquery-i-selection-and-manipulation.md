@@ -93,7 +93,11 @@ console.log(master[1])  //<p class="master">Vue</p>
 </script>
 ```
 
+### parentNode\(\)
 
+```text
+const elesParent = ele.parentNode
+```
 
 [https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
 

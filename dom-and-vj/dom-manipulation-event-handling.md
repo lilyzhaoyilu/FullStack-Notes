@@ -23,5 +23,13 @@ buttonEl.addEventListener('click', addFunction)
  function addFunction(){
      buttonEl.classList.add('button')
   }
+ 
+```
+
+```text
+element.onclick = function(){
+
+
+}
 ```
 

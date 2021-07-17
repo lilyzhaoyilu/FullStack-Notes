@@ -1,6 +1,12 @@
+---
+description: 'https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/'
+---
+
 # DOM Manipulation: Add CSS through adding properties
 
 ## Manipulate element's class
+
+classList
 
 ```javascript
 const elementClasses = elementNodeReference.classList
@@ -13,5 +19,19 @@ node.classList.replace('foo', 'bar')
 console.log(node.classList.contains('food'))
 ```
 
-[https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/](https://www.freecodecamp.org/news/how-to-manipulate-the-dom-beginners-guide/)
+.style
+
+```text
+ele.style.backgroundColor = 'blue'
+```
+
+
+
+
+
+
+
+
+
+
 
