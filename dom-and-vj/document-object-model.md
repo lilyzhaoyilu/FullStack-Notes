@@ -14,8 +14,6 @@ DOM is an interface that allows us to break down a web page into a hierarchy of 
 
 The ability to manipulate the DOM is one of the most unique and useful abilities of JavaScript.
 
-{% page-ref page="document-object-model.md" %}
-
 an HTML page on its own is not made up of underlying data structures, and that it is the **DOM itself that is translating the HTML into a node tree**. Without the DOM, we wouldn't have any way to manipulate the document and its component parts using JavaScript code alone.
 
 
