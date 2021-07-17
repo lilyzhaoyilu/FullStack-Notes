@@ -38,4 +38,5 @@
 * [DOM Manipulation: Add CSS through adding properties](dom-and-vj/dom-manipulation-add-css-through-adding-properties.md)
 * [DOM Manipulation: Attribute](dom-and-vj/dom-manipulation-attribute.md)
 * [DOM Manipulation: Event Handling](dom-and-vj/dom-manipulation-event-handling.md)
+* [Other DOM Commands](dom-and-vj/other-dom-commands.md)
 

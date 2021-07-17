@@ -43,7 +43,9 @@ of "master2" and change the innerHTML of the 3rd element.
 
 ### .getElementsByTagName\(\)    \(multiple, like array can access \[0\]\)
 
-returns **all the elements** of the specified tag name in the order which they appear in the document
+returns **all the elements** of the specified **tag name** in the order which they appear in the document
+
+tag name : 标签名称， 比如&lt;strong&gt;, &lt;p&gt;
 
 ```javascript
 <p>VsCode</p>
