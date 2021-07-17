@@ -10,21 +10,21 @@ Every node has exactly one parent, except the top node which has no parent.
 
 
 
-## How to Create Elements
+### How to Create Elements
 
 ```javascript
 const createEl = documnet.createElement('div')
 console.log(createEl) // <div></div>
 ```
 
-## Set innerHTML
+### Set innerHTML
 
 ```javascript
 const innerhtml = createEl.innerHTML = ' i am a frontend developer'
 console.log(createEl) // <div> i am a front end developer </div>
 ```
 
-Append an Element
+### Append an Element
 
 ```javascript
 
@@ -43,4 +43,26 @@ parent.appendChild(ele)
 
     
 ```
+
+### Insert Before
+
+```javascript
+let insertedNode = parentNode.insertBefore(newNode, referenceNode)`
+```
+
+### replace a Child element
+
+```text
+parentNode.replaceChild(newChild, oldChild);
+```
+
+### remove a node
+
+```text
+node.removeChild(child);
+
+node is the parent node of `child`
+```
+
+[https://developer.mozilla.org/en-US/docs/Web/API/Node](https://developer.mozilla.org/en-US/docs/Web/API/Node)
 
