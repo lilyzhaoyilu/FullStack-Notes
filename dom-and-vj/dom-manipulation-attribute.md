@@ -18,7 +18,7 @@ myelement.getAttribute('id') // returns the id
 
 ### .setAttribute\(\)  // createAttribute\(\)
 
-```text
+```javascript
 Element.setAttribute(name, value);
 
 elementNode.setAttribute("name", "helloButton");

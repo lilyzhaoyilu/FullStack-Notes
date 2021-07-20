@@ -72,7 +72,7 @@ const btn = document.getElementById('btn')
 
 This returns the first value that matches the selector it’s given. This method can accept all CSS style selectors, allowing it to select by tag, class, or ID. \(.class, \#id, input\[type = 'text'\]\)
 
-```text
+```javascript
 <div id=master>i am a frontend developer</div>
 
 <script>
