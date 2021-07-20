@@ -8,7 +8,7 @@ It serves as an entry point into the web page's content.
 
 ### Document Object Model\(DOM\)
 
-DOM is an APU provided by the browser in which JavaScript code can be used to access the HTML content of a page. 
+DOM is an API provided by the browser in which JavaScript code can be used to access the HTML content of a page. 
 
 DOM is an interface that allows us to break down a web page into a hierarchy of nodes, and manipulate those nodes with JavaScript. 
 
