@@ -43,5 +43,9 @@
 
 ## Programming Basics
 
-* [Untitled](programming-basics/untitled.md)
+* [C++ Recommended Resources](programming-basics/untitled.md)
+
+---
+
+* [Untitled](untitled.md)
 
